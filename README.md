@@ -32,5 +32,5 @@ Building iOS app that depends on swift package with xcframework dependnecy fails
 
 ### Attachments:
 
-- [Build log from Xcode 14.3 (14E222b)](Build log from Xcode 14.3 (14E222b).txt)
-- [Build log from Xcode 15.0 Beta (15A5160n)](Build log from Xcode 15.0 Beta (15A5160n).txt)
+- [Build log from Xcode 14.3 (14E222b)](Build%20log%20from%20Xcode%2014.3%20(14E222b).txt)
+- [Build log from Xcode 15.0 Beta (15A5160n)](Build%20log%20from%20Xcode%2015.0%20Beta%20(15A5160n).txt)
